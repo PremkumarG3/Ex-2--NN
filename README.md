@@ -1,6 +1,6 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>Name</H3> Prem Kumar G
+<H3>Register no.</H3> 212223230158
+<H3>Date</H3> 18/10/2025
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
@@ -49,13 +49,18 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-    ''' Insert your code here '''
+```
 
+```
 # OUTPUT:
+<img width="1096" height="619" alt="Screenshot 2025-10-18 074314" src="https://github.com/user-attachments/assets/029fc889-e0ca-483a-94fb-6991b695b2f6" />
 
-    ''' Show your result '''
+<img width="1096" height="610" alt="Screenshot 2025-10-18 074400" src="https://github.com/user-attachments/assets/9d3d73a1-7abb-452d-9ebc-e0309b33d14c" />
+
+<img width="991" height="462" alt="Screenshot 2025-10-18 074416" src="https://github.com/user-attachments/assets/b3362765-b7ce-435b-8ebd-032412142723" />
+
 
 # RESULT:
- Thus, a single layer perceptron model is implemented using python to classify Iris data set.
+ Thus, a single layer perceptron model is implemented using python to classify Iris data set was executed successfully.
 
  
